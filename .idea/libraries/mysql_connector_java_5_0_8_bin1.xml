@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.0.8-bin1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CSDN201910062004/Demo8-使用Servlet实现增删改查/out/artifacts/Servlet_war_exploded/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
